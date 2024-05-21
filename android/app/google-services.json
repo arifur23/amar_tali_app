@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965099708225",
+    "project_id": "amar-tali-glitzbd",
+    "storage_bucket": "amar-tali-glitzbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965099708225:android:a6df5e91dcf2ca051e4bc0",
+        "android_client_info": {
+          "package_name": "com.example.amar_tali_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYU7WpB3vZP7_-AI9Le9g0kw_2pNYq4S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
